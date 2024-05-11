@@ -15,6 +15,7 @@ public class arraylist {
         food.add("rasambhava");
 
         food.set(1,"chocolate milkshake");
+               //(index,"changes");
         food.remove(4);
         //food.clear();
 
